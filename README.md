@@ -9,5 +9,5 @@ pip install -r requirements.txt
 ```
 3.
  ```ssh
-streamlit run main.py
+streamlit run test.py
 ```
